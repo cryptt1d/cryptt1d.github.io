@@ -12,3 +12,4 @@ robots: noindex
 <br />
 [email](mailto:snenes@tuta.io)
 [TryHackMe](https://tryhackme.com/p/crypt1d)
+[Twitter](https://twitter.com/cryptt1d)
