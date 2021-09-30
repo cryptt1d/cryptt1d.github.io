@@ -7,7 +7,7 @@ robots: noindex
 # crptd
 * Smooth Manifold enthusiast
 * Plant Music connoisseur
-* Allegedly participated in the Fresno Nightcrawler event
+* Allegedly took part in the Fresno Nightcrawler event
 
 <br />
 [email](mailto:snenes@tuta.io)
