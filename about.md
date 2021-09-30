@@ -10,5 +10,5 @@ robots: noindex
 * Allegedly participated in the Fresno Nightcrawler event
 
 <br />
-[email](mailto:snenes@tuta.io)email
-[TryHackMe](https://tryhackme.com/p/crypt1d)THM
+[email](mailto:snenes@tuta.io)
+[TryHackMe](https://tryhackme.com/p/crypt1d)
