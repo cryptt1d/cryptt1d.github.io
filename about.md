@@ -12,4 +12,5 @@ robots: noindex
 <br />
 [email](mailto:snenes@tuta.io)
 [TryHackMe](https://tryhackme.com/p/crypt1d)
+[HTB](https://app.hackthebox.eu/profile/495993)
 [Twitter](https://twitter.com/cryptt1d)
