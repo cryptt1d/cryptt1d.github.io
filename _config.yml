@@ -5,6 +5,7 @@
 header_pages:
   - index.md 
   - about.md
+  - etc.md
 
 footer: '<a href="https://twitter.com/cryptt1d">twitter</a>'
 
